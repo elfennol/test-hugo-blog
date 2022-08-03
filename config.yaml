@@ -1,4 +1,4 @@
-baseURL: 'https://vincent-hevea.github.io/test-hugo-blog'
+baseURL: 'https://elfennol.github.io/test-hugo-blog/'
 languageCode: 'en-us'
 title: 'My New Hugo Site'
 theme: 'github.com/adityatelange/hugo-PaperMod'
